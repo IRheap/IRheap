@@ -1,11 +1,10 @@
 - 👋 Hi, I’m @IRheap
-- 👀 I’m interested in Programming & Web Development
-- 🌱 Primary Lanuages:-
-- 💞️ HTML, CSS, C, C++,Data Structures
-- 🌱 JAVA, VB.net ,Javascript
-- 💞️ Experimental and open-Source Enthusiast
-- 😄 She/Her
-- 🌱 Educational Purpose: Open Source Program Codes
+- 🌱 Client-side Scripting languages:      HTML, CSS, Javascript, VB.Net, Flutter-Dart
+- 🌱 Server-side Scripting languages:
+  C, C++, Java, DSA, PHP, SQL, Python
+- 🌱 Experimental & Open-Source Enthusiast
+- She/Her
+- 🌱 For Educational Purpose!
   
 <!---
 IRheap/IRheap is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
