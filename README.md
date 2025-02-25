@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @IRheap
-- 🌱 Client-side Scripting languages:      HTML, CSS, Javascript, VB.Net, Flutter-Dart
+- 🌱 Client-side Scripting languages:      HTML, CSS, Javascript, VB.Net, Android programming.
 - 🌱 Server-side Scripting languages:
   C, C++, Java, DSA, PHP, SQL, Python
 - 🌱 Experimental & Open-Source Enthusiast
